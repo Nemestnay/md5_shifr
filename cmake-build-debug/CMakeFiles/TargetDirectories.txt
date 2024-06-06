@@ -1,0 +1,3 @@
+/home/alena/CLionProjects/bezopasnost/cmake-build-debug/CMakeFiles/bezopasnost.dir
+/home/alena/CLionProjects/bezopasnost/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alena/CLionProjects/bezopasnost/cmake-build-debug/CMakeFiles/rebuild_cache.dir
